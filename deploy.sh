@@ -5,8 +5,8 @@ set -e
 # === CONFIGURATION ===
 
 KEY_PATH="$HOME/Downloads/sols-keypair.pem"
-GIT_REPO="https://github.com/tracy100001/ticket-generator-template.git"
-BRANCH="main"
+GIT_REPO="https://github.com/tracy100001/faketicketgenerator.git"
+BRANCH="master"
 
 # Define array of targets: "host user remote_dir sub_dir env_file"
 TARGETS=(
